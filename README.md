@@ -1,1 +1,2 @@
 # ScreenAdaptation
+此项目是根据今日头条提供的屏幕适配方式封装的
